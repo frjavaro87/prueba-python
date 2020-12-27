@@ -7,3 +7,5 @@ c = 23
 d = 20
 
 print(a + b * c + d)
+
+print("intentando aprender más de python")
