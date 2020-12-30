@@ -21,4 +21,9 @@ print(x)
 
 print(pi * 2)
 
+y = input()
+
+print(y)
+
+
 
