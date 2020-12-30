@@ -25,5 +25,6 @@ y = input()
 
 print(y)
 
+z = input()
 
-
+print(y * z)
