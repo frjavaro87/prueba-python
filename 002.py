@@ -27,6 +27,6 @@ print(y)
 
 z = input(int())
 
-d = y * z
+d = int(y) * int(z)
 
 print(d)
