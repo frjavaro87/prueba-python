@@ -19,3 +19,6 @@ x = 2 * pi
 
 print(x)
 
+print(pi * 2)
+
+
