@@ -12,3 +12,10 @@ print("intentando aprender más de python")
 print("de madrugada, para no perder tiempo")
 
 print("014 180 606 171 789 243")
+
+from math import pi
+
+x = 2 * pi
+
+print(x)
+
