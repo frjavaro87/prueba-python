@@ -21,10 +21,11 @@ print(x)
 
 print(pi * 2)
 
-y = input()
+y = input(int())
 
 print(y)
 
-z = input()
+z = input(int())
 
 print(y * z)
+
