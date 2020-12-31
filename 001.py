@@ -14,11 +14,11 @@ print("escribe una palabra")
 
 a = input()
 
-if a = hola:
-    print("bien hecho, sigue así")
-elif
-    print("mala respuesta")
-
+#if a = "hola":
+#    print("bien hecho, sigue así")
+#elif
+ #   print("mala respuesta")
+print(a)
 
 
 
