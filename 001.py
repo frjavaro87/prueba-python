@@ -12,12 +12,12 @@ print(c)
 
 print("escribe una palabra")
 
-a = input(str())
+a = input()
 
-if len(a) < 10:
+if a = hola:
     print("bien hecho, sigue así")
-    else
-    print("siguiente")
+elif
+    print("mala respuesta")
 
 
 
