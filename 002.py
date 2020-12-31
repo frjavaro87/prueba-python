@@ -17,3 +17,4 @@ print(y)
 z = input(int())
 d = int(y) * int(z)
 print(d)
+
