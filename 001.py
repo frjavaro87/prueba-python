@@ -16,10 +16,10 @@ a = input(str())
 
 if len(a) < 10:
     print("bien hecho, sigue así")
-    elif
+    else
     print("siguiente")
 
-    
+
 
 
 
