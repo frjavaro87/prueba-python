@@ -13,3 +13,10 @@ print(c)
 print("escribe galletas")
 
 a = input()
+
+"""es de las cosas que no entiendo
+apoco se puede hacer eso
+en serio que no sabía
+"""
+
+print(a)
