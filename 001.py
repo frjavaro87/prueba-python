@@ -10,14 +10,6 @@ print(c)
 # comandos que se me habían olvidado
 # if
 
-print("escribe un número")
+print("escribe galletas")
 
-a = int(input())
-
-
-if a <= 10:
-   print("bien hecho, sigue así")
-elif a > 10:
-   print("mala respuesta")
-
-
+a = input()
