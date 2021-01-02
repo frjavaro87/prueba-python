@@ -10,18 +10,12 @@ print(c)
 # comandos que se me habían olvidado
 # if
 
-print("escribe una palabra")
+print("escribe un número")
 
-a = input()
+a = input(int())
 
-#if a = "hola":
-#    print("bien hecho, sigue así")
-#elif
- #   print("mala respuesta")
-print(a)
-
-
-
-
-
+if a <= 10:
+    print("bien hecho, sigue así")
+elif
+    print("mala respuesta")
 
