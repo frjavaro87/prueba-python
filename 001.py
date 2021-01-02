@@ -12,10 +12,11 @@ print(c)
 
 print("escribe un número")
 
-a = input(int())
+a = input()
 
 if a <= 10:
     print("bien hecho, sigue así")
-else
+    elif
     print("mala respuesta")
+
 
