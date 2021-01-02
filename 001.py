@@ -16,6 +16,6 @@ a = input(int())
 
 if a <= 10:
     print("bien hecho, sigue así")
-elif
+else
     print("mala respuesta")
 
