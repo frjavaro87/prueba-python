@@ -16,7 +16,7 @@ a = input()
 
 if a <= 10:
     print("bien hecho, sigue así")
-    elif
+elif
     print("mala respuesta")
 
 
